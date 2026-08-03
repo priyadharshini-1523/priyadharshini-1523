@@ -1,5 +1,7 @@
 Hi, I'm Priyadharshini 👋
+
 🎓 MCA Student
+
 📊 Aspiring Data Analyst | 💻 Software Developer
 
 🚀 Skills
@@ -23,6 +25,7 @@ Hi, I'm Priyadharshini 👋
 - Microsoft Excel
 
 🎯 Career Goal
+
 To build a successful career in Data Analytics by solving real-world problems and creating data-driven solutions using Python, SQL, and Excel while continuously improving my software development skills.
 
 📫 Contact Me
