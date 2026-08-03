@@ -1,27 +1,29 @@
 Hi, I'm Priyadharshini 👋
-
-🎓 MCA Student  
-💻 Aspiring Web Developer | java Developer
+🎓 MCA Student
+📊 Aspiring Data Analyst | 💻 Software Developer
 
 🚀 Skills
-- HTML, CSS, JavaScript  
-- Python (Basics)  
-- Java (Learning)  
+- Python (Basics)
+- SQL (Basics)
+- Microsoft Excel
+- Google Sheets
+- HTML
+- CSS
+- JavaScript
+- Java (Basics)
 
 📂 Projects
-
-
--🔗 Social Media Navigation Web App  
--🔐 Student Login System  
+- Student Login System
+- Mini Social Media Web App
 
 🌱 Currently Learning
-
-- Java Programming  
-- Advanced Web Development
+- Data Analytics
+- Python
+- SQL
+- Microsoft Excel
 
 🎯 Career Goal
-
--To build a strong career as a Web and Java Developer by developing real-time applications, enhancing problem-solving skills, and gaining industry experience.
+To build a successful career in Data Analytics by solving real-world problems and creating data-driven solutions using Python, SQL, and Excel while continuously improving my software development skills.
 
 📫 Contact Me
 📧 Email: priyadharshini.mca.23@gmail.com  
